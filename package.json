@@ -15,7 +15,7 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://dbertella.github.io/is-my-endpoint-ready-yet/",
+  "homepage": "http://is-my-endpoint-ready-yet.danielebertella.com",
   "eslintConfig": {
     "extends": "react-app"
   },
