@@ -29,7 +29,7 @@ class App extends Component {
           <span className="App-logo" role="img" aria-label="thinking">
             {!(yes || no) && '🤔'}
             {yes && '👏'}
-            {no && '👎'}
+            {no && '🤮'}
           </span>
           <p>Is my endpoint ready yet?</p>
           <div>
